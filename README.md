@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ML/DL/Next Js**
 
-- 👯 I’m looking to collaborate on **Full-Stack/Software Development.**
+- 👯 I’m looking to collaborate on **Full-Stack Development / Software Engineer.**
 
 - 👨‍💻 All of my projects are available at https://github.com/AhmedZ2003?tab=repositories
 
