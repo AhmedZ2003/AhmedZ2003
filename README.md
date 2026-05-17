@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **ML/DL/Next Js**
 
-- 👯 I’m looking to collaborate on **Frontend Development.**
+- 👯 I’m looking to collaborate on **Full-Stack/Software Development.**
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at https://github.com/AhmedZ2003?tab=repositories
 
-- 📫 How to reach me **i220525@nu.edu.pk**
+- 📫 How to reach me **ahmedzubair5813@gmail.com**
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
